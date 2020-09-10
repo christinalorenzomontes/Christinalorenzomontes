@@ -1,4 +1,4 @@
-### Here is what I'm working on 👋
+### My name is Cristina Lorenzo and I'm a front end developer! 👋
 
 
 - 🔭 I’m currently working on ... React and Javascript
