@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Angular, React and Wordpress
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/christinalorenzomontes/)
-- 😄 Pronouns: ... She/Her
+- 📫 How to reach me: ... [Gmail](christinalorenzomontes@gmail.com)
 
 # Awesome Project
 
@@ -28,13 +27,3 @@ Describe briefly what your project is about.
 [![React](https://img.shields.io/badge/Tech1-Blue.svg)](https://example.com/tech1)
 [![Javascript](https://img.shields.io/badge/Tech2-Green.svg)](https://example.com/tech2)
 [![Wordpress](https://img.shields.io/badge/Tech3-Orange.svg)](https://example.com/tech3)
-
-## Getting Started
-
-Provide instructions on how to get your project up and running.
-
-```bash
-git clone https://github.com/yourusername/awesome-project.git
-cd awesome-project
-npm install
-npm start
