@@ -1,14 +1,14 @@
 ### Hello, I'm Christina 👋🏻 👩🏻‍💻
 
 
-- 🔭 I’m currently working on ... Angular, React and Wordpress
+- 🔭 I’m currently working on ... React, Angular and Wordpress
 - 📫 How to reach me: ... [Mail](christinalorenzomontes@gmail.com)
 
 # Some Projects
 
-- 🚀 [Mail](christinalorenzomontes@gmail.com)
-- 🌈 [Mail](christinalorenzomontes@gmail.com)
-- ✨ [Mail](christinalorenzomontes@gmail.com)
+- 🚀 [Chess]([christinalorenzomontes@gmail.com](https://christinalorenzomontes.github.io/JS-Chess/))
+- 🌈 [GifExpertApp](christinalorenzomontes@gmail.com)
+- ✨ [Sailor Moon Card]([christinalorenzomontes@gmail.com](https://christinalorenzomontes.github.io/sailor-moon-card/))
 
 ## Technologies Used
 
