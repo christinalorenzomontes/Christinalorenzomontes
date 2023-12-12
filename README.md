@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... React, Angular and Wordpress
-- 📫 How to reach me: ... [Mail](christinalorenzomontes@gmail.com)
+- 📫 I'm always looking for new projects and opportunities to learn more. Feel free to contact me by email:: ... [Mail](christinalorenzomontes@gmail.com)
 
 # Some Projects
 
