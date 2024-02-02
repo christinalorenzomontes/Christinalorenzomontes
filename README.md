@@ -7,7 +7,7 @@
 # Some Projects
 
 - 🚀 [Chess](https://christinalorenzomontes.github.io/JS-Chess/)
-- 🌈 [GifExpertApp](christinalorenzomontes@gmail.com)
+- 🌈 [GifExpertApp](https://github.com/christinalorenzomontes/GifExpertAppReact)
 - ✨ [Sailor Moon Card](https://christinalorenzomontes.github.io/sailor-moon-card/)
 
 ## Technologies Used
